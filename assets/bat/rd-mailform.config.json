@@ -1,0 +1,8 @@
+{
+  "useSmtp": true,
+  "host": "smtp.gmail.com",
+  "port": 465,
+  "username": "italo.computation@gmail.com",
+  "password": "wuakvrhzrxukzzty",
+  "recipientEmail": "italo.computation@gmail.com,italo.silva@itegam.org.br"
+}
